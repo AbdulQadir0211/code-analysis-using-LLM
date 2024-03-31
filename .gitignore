@@ -1,5 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+research/test_repo
+.env
+llm
 *.py[cod]
 *$py.class
 
